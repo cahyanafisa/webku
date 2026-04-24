@@ -58,52 +58,34 @@ body{
 }
 
 .kiri{
-
-width:70%;
-
-float:left;
-
-margin:auto;
-
-background:#fff;
-
-height:420px;
+   width:70%;
+   float:left;
+   margin:auto;
+   background:#fff;
+   height:420px;
 
 }
 
 .kanan{
-
-width:30%;
-
-float:left;
-
-margin:auto;
-
-background:#fff;
-
-height:420px;
+    width:30%;
+    float:left;
+    margin:auto;
+    background:#fff;
+    height:420px;
 
 }
 
 .undecor{
-
-text-decoration:none;
+    text-decoration:none;
 
 }
 
 .footer {
-
-width:90%;
-
-margin:auto;
-
-height:40px;
-
-line-height:40px;
-
-background:#417aa8;
-
-color:#fff;
-
-margin-bottom: 1pc;
+    width:90%;
+    margin:auto;
+    height:40px;
+    line-height:40px;
+    background:#417aa8;
+    color:#fff;
+    margin-bottom: 1pc;
     
